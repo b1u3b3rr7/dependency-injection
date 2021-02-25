@@ -1,0 +1,23 @@
+{
+  "name": "dependency-injection",
+  "version": "1.0.0",
+  "description": "Dependency Injection is a pattern where, instead of creating or requiring dependencies directly inside a module, we pass them as parameters or reference.",
+  "main": "user-service.spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b1u3b3rr7/dependency-injection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b1u3b3rr7/dependency-injection/issues"
+  },
+  "homepage": "https://github.com/b1u3b3rr7/dependency-injection#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "sinon": "^9.2.4"
+  }
+}
